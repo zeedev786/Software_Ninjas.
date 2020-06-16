@@ -1,2 +1,2 @@
 # Software_Ninjas.
-![Screenshot from 2020-06-16 23-04-47](https://user-images.githubusercontent.com/47720053/84815397-97356880-b030-11ea-90f9-94f6b74ef38a.png)
+![Screenshot from 2020-06-17 00-24-43](https://user-images.githubusercontent.com/47720053/84815664-fbf0c300-b030-11ea-9415-662c398ce99e.png)
